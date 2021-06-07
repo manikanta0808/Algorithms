@@ -33,8 +33,5 @@ int main(){
                 2 3 1 4 5
                 2 1 3 4 5 // 3 is placed correctly
 
-                1 2 3 4 5// all the array is sorted
-
-
-                
+                1 2 3 4 5// all the array is sorted                
 */
